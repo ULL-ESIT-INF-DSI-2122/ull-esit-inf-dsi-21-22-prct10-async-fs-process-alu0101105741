@@ -1,0 +1,7 @@
+{
+  "entryPoints": [
+    "./src/ejercicio/suma.ts",
+    "./src/ejercicio/watchFile.ts"
+  ],
+  "out": "./docs"
+}
